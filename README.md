@@ -1,2 +1,4 @@
 # APPetito
 APPetito is a native application that allows to offer or purchase of restaurant’s meals depending on the role that the user has chosen. As a restaurateur will be possible to open a profile for a restaurant, present a menu and manage incoming reservations. As client, instead, will be possible to browse with filters for different restaurants subscribed to the app, consult menues and complete reservations. A serie of missions, depending on the category of customer chosen, will allow the earning of points based on the reservations completed, to spend in discounts. The social objective of the app is also to promote real life moments to spend at restaurants, by inviting friends to subscribe, potentially increasing the incomes of the restaurants subscribed too.
+
+React Native Project - you can find the detailed design document called APPetito_design_document.pdf
