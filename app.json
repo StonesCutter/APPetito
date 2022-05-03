@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "MyApp",
+    "slug": "MyApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.valentina4immer.MyApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.valentina4immer.MyApp",
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyCz3rAoZ_3IWhyb9RXZExnZ6sO2BimywAc"
+        }
+      }
+    }
+  }
+}
